@@ -1,0 +1,21 @@
+{
+  "name": "tech-job-scraper",
+  "version": "1.0.0",
+  "description": "A web scraping project for tech job postings",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "web scraping",
+    "job postings",
+    "tech jobs"
+  ],
+  "author": "karan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "xlsx": "^0.16.9"
+  }
+}
